@@ -1,0 +1,4 @@
+class CounterViewModel{
+
+  CounterViewModel();
+}

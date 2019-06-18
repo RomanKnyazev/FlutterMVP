@@ -1,4 +1,4 @@
-# bmi_mvp
+# vmp
 
 A new Flutter project.
 

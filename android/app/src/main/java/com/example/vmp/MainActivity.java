@@ -1,4 +1,4 @@
-package com.example.bmi_mvp;
+package com.example.vmp;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
